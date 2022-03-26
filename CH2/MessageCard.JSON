@@ -1,0 +1,25 @@
+{
+  "@type": "MessageCard",
+  "@context": "http://schema.org/extensions",
+  "summary": "本日會議通知",
+  "sections": [
+    {
+      "activityTitle": "本日會議通知",
+      "activityImage": "",
+      "facts": [
+        {
+          "name": "主旨",
+          "value": "專案進度會議"
+        },
+        {
+          "name": "時間",
+          "value": "2021/12/12 AM 09:00"
+        },
+        {
+          "name": "參與人數",
+          "value": "5"
+        }
+      ]
+    }
+  ]
+}
